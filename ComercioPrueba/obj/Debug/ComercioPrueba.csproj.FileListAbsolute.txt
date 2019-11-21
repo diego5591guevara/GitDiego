@@ -1,0 +1,6 @@
+c:\users\diego\documents\visual studio 2015\Projects\ComercioPrueba\ComercioPrueba\bin\Debug\ComercioPrueba.exe.config
+c:\users\diego\documents\visual studio 2015\Projects\ComercioPrueba\ComercioPrueba\bin\Debug\ComercioPrueba.exe
+c:\users\diego\documents\visual studio 2015\Projects\ComercioPrueba\ComercioPrueba\bin\Debug\ComercioPrueba.pdb
+c:\users\diego\documents\visual studio 2015\Projects\ComercioPrueba\ComercioPrueba\obj\Debug\ComercioPrueba.exe
+c:\users\diego\documents\visual studio 2015\Projects\ComercioPrueba\ComercioPrueba\obj\Debug\ComercioPrueba.pdb
+c:\users\diego\documents\visual studio 2015\Projects\ComercioPrueba\ComercioPrueba\obj\Debug\ComercioPrueba.csprojResolveAssemblyReference.cache
